@@ -17,7 +17,9 @@
         <img src="profile.jpg" alt="Profile Picture" width="200" height="auto">
     </div>
     <div style="flex: 2;">
-        <p>Hi there! I’m Minji, and I recently completed my PhD at Purdue University, specializing in computer vision and UAV-based semantic segmentation. My research focuses on building end-to-end machine learning pipelines for high-resolution aerial imagery, with an emphasis on ecological monitoring and object-level instance segmentation.</p>
+        <p>Hi there! I’m Minji, founder of CedarSAM, LLC. I recently completed my PhD at Purdue University, specializing in computer vision and UAV-based semantic segmentation. My work focuses on building end-to-end machine learning pipelines for high-resolution aerial imagery, with an emphasis on ecological monitoring and object-level instance segmentation.
+
+CedarSAM started from my PhD research at Purdue, and I am currently working on developing it into a real-world service in collaboration with Purdue. The goal is to help transform UAV imagery into actionable ecological insights, such as tree detection, segmentation, metadata generation, and monitoring support.</p>
     </div>
 </div>
 
